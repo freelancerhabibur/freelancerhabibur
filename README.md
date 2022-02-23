@@ -1,4 +1,4 @@
-# Hi 👋 Myself Habib, I'm a Passionate <a href="https://www.freelancer.com/u/csehabiburr183"> Freelance </a> Web Developer.
+# Hi 👋 Myself Habib, I'm a <a href="https://www.freelancer.com/u/csehabiburr183"> Freelance </a> Web Developer.
 
 
 <a href="https://www.youtube.com/c/adnanhabib">
